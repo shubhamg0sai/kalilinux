@@ -32,6 +32,6 @@ this for set password
 # then open vncserver app click + icon and add address as localhost:1 and name as kali and create it and ok
 
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/kalilinux/main/Screenshot_20190805-221720.png)
- https://raw.githubusercontent.com/ShuBhamg0sain/kalilinux/main/images.jpeg
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/kalilinux/main/images.jpeg)
 # For Stop the kali go to termux and type 
 ## nethunter kex stop
