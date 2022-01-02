@@ -1,7 +1,7 @@
 # kalilinux
 
 Instagram account
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
 
 Kalilinux in android phone using termux
 
@@ -24,7 +24,7 @@ Kalilinux in android phone using termux
 
 # Now you see this 
 
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/kalilinux/main/images.png)
+![ ](https://raw.githubusercontent.com/shubhamg0sai/kalilinux/main/images.png)
 
 # Type 
 ## nethunter kex passwd
@@ -35,7 +35,7 @@ this for set password
  start vncserver in termux
 # then open vncserver app click + icon and add address as localhost:1 and name as kali and create it and ok
 
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/kalilinux/main/Screenshot_20190805-221720.png)
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/kalilinux/main/images.jpeg)
+![ ](https://raw.githubusercontent.com/shubhamg0sai/kalilinux/main/Screenshot_20190805-221720.png)
+![ ](https://raw.githubusercontent.com/shubhamg0sai/kalilinux/main/images.jpeg)
 # For Stop the kali go to termux and type 
 ## nethunter kex stop
